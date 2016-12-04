@@ -1,7 +1,7 @@
 {
     "name": "server",
     "description": "MVC ODM App",
-    "author": "To Kwok Chu <s11505947@ouhk.edu.hk>,
+    "author": "To Kwok Chu <s11505947@ouhk.edu.hk>",
     "version": "0.0.1",
     "dependencies": {
         "mongoose": "*",
